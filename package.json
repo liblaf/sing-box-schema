@@ -13,7 +13,9 @@
     "url": "https://github.com/liblaf",
     "email": "30631553+liblaf@users.noreply.github.com"
   },
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "exports": {
     ".": {
       "import": {
