@@ -14,7 +14,7 @@
     "email": "30631553+liblaf@users.noreply.github.com"
   },
   "files": [
-    "dist"
+    "./dist"
   ],
   "exports": {
     ".": {

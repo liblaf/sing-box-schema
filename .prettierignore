@@ -1,6 +1,4 @@
-*-lock.*
-*.json
-*.jsonc
-*.lock
-*.ts
-*.tsx
+**/*-lock.*
+**/*.lock
+**/*.ts
+**/*.tsx

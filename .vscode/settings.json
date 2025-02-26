@@ -1,11 +1,5 @@
 {
   "files.exclude": {
     "**/node_modules": true
-  },
-  "[json]": {
-    "editor.defaultFormatter": "biomejs.biome"
-  },
-  "[jsonc]": {
-    "editor.defaultFormatter": "biomejs.biome"
   }
 }
