@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.2](https://github.com/liblaf/sing-box-schema/compare/v0.0.1...v0.0.2) (2025-02-27)
+
+
+### ✨ Features
+
+* export additional schema types and constants ([d33fce9](https://github.com/liblaf/sing-box-schema/commit/d33fce925dd1520af7db431e1592725dcd04dd9a))
+
 ## [0.0.1](https://github.com/liblaf/sing-box-schema/compare/v0.0.0..v0.0.1) - 2025-02-27
 
 ### ♻ Code Refactoring
