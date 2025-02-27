@@ -1,6 +1,6 @@
-import type { SingBox } from "@lib";
+import type { Singbox } from "@lib";
 
-export const LINUX: SingBox = {
+export const DEFAULT: Singbox = {
   log: { level: "warn" },
   dns: {
     servers: [

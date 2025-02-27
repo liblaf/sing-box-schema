@@ -8,3 +8,5 @@ export const OUTBOUND = z.discriminatedUnion("type", [
   OUTBOUND_SELECTOR,
   OUTBOUND_URLTEST,
 ]);
+
+export type Outbound = z.infer<typeof OUTBOUND>;

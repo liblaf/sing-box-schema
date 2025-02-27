@@ -6,7 +6,11 @@ import { LOG } from "./log";
 import { OUTBOUND } from "./outbound";
 import { ROUTE } from "./route";
 
-export const SING_BOX = z
+export { OUTBOUND } from "./outbound";
+export type { Outbound } from "./outbound";
+export { PORT } from "./rule-set";
+
+export const SINGBOX = z
   .object({
     $schema: z.string(),
     log: LOG,
@@ -18,4 +22,4 @@ export const SING_BOX = z
   })
   .partial();
 
-export type SingBox = z.infer<typeof SING_BOX>;
+export type Singbox = z.infer<typeof SINGBOX>;

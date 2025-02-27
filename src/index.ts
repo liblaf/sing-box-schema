@@ -1,2 +1,2 @@
-export { SING_BOX } from "./schema";
-export type { SingBox } from "./schema";
+export { SINGBOX } from "./schema";
+export type { Singbox } from "./schema";
