@@ -1,5 +1,16 @@
 # Changelog
 
+## [0.0.1](https://github.com/liblaf/sing-box-schema/compare/v0.0.0..v0.0.1) - 2025-02-27
+
+### ♻ Code Refactoring
+
+- standardize naming and reorganize template structure - ([dbf443e](https://github.com/liblaf/sing-box-schema/commit/dbf443e47c336abf1f94c5efddc883d2301aac4a))
+- reorganize template exports and update configuration files - ([4363523](https://github.com/liblaf/sing-box-schema/commit/4363523dcaad7cf76f3de007fcec1273a69c9b01))
+
+### ❤️ New Contributors
+
+- @liblaf made their first contribution
+
 ## [0.0.0] - 2025-02-20
 
 ### ✨ Features
@@ -8,4 +19,5 @@
 
 ### ❤️ New Contributors
 
+- @github-actions[bot] made their first contribution in [#2](https://github.com/liblaf/sing-box-schema/pull/2)
 - @liblaf made their first contribution
